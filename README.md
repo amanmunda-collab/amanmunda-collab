@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Aman Kumar 
 
-<!--
-**amanmunda-collab/amanmunda-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web3 Analyst | DeFi Researcher | Technical Writer**
 
-Here are some ideas to get you started:
+I am a Web3 developer and researcher with over two years of active experience in the crypto ecosystem. I spend my time analyzing decentralized finance protocols and explaining complex smart contract mechanics in plain English. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Because these platforms operate entirely on code, understanding the underlying math matters. I bridge the gap between heavy technical execution and accessible market analysis. My goal is to give readers the exact data they need to make informed decisions.
+
+### ⚙️ What I Do
+* **DeFi Analytics:** I evaluate automated market makers (AMMs), track liquidity pool depth, and calculate impermanent loss metrics.
+* **Smart Contract Mechanics:** I review token standards, bridging consensus models, and MEV front-running risks.
+* **Technical Writing:** I craft clear, accurate Web3 content focused on readability and hard facts.
+
+### ✍️ My Latest Articles
+*Read my full technical analysis on the [BlockPulse Insights Blog](https://blockpulseinsights.com/blog/).*
+
+* [Where to Buy Tokenized Stocks](https://blockpulseinsights.com/blog/where-to-buy-tokenized-stocks/)
+* [Are Seed Phrases Case Sensitive?](https://blockpulseinsights.com/blog/are-seed-phrases-case-sensitive/)
+* [How to Swap Tokens With Low Liquidity](https://blockpulseinsights.com/blog/how-to-swap-low-liquidity-tokens/)
+
+### 🛠️ Tools & Tech Stack
+* **Networks:** Ethereum, Solana, Base, Arbitrum.
+* **Analytics:** Dune Analytics, Etherscan, DexScreener, DefiLlama.
+* **Publishing:** Markdown, Astro, Git, Technical SEO.
+
+### 📫 Connect With Me
+* **My Website:** [BlockPulse Insights](https://blockpulseinsights.com/)
+* **My Work:** [BlockPulse Blog](https://blockpulseinsights.com/blog/)
+---
+*Verify my published technical guides directly at [BlockPulse Insights](https://blockpulseinsights.com/).*
