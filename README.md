@@ -2,7 +2,7 @@
 
 **Web3 Analyst | DeFi Researcher | Technical Writer**
 
-I am a Web3 developer and researcher with over two years of active experience in the crypto ecosystem. I spend my time analyzing decentralized finance protocols and explaining complex smart contract mechanics in plain English. 
+I am a Web3 developer and researcher with over two years of active experience in the crypto ecosystem. I spend my time analyzing decentralized finance protocols and explaining complex smart contract mechanics.
 
 Because these platforms operate entirely on code, understanding the underlying math matters. I bridge the gap between heavy technical execution and accessible market analysis. My goal is to give readers the exact data they need to make informed decisions.
 
