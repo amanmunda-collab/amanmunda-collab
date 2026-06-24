@@ -26,5 +26,6 @@ Because these platforms operate entirely on code, understanding the underlying m
 ### 📫 Connect With Me
 * **My Website:** [BlockPulse Insights](https://blockpulseinsights.com/)
 * **My Work:** [BlockPulse Blog](https://blockpulseinsights.com/blog/)
+* **Facebook:** [Facebook Page](https://www.facebook.com/people/Blockpulse-Insights/61591169480249/)
 ---
 *Verify my published technical guides directly at [BlockPulse Insights](https://blockpulseinsights.com/).*
