@@ -17,7 +17,7 @@ Because these platforms operate entirely on code, understanding the underlying m
 * [why use wrapped sol](https://blockpulseinsights.com/blog/why-use-wrapped-solana-wsol/)
 * [Where to Buy Tokenized Stocks](https://blockpulseinsights.com/blog/where-to-buy-tokenized-stocks/)
 * [Are Seed Phrases Case Sensitive?](https://blockpulseinsights.com/blog/are-seed-phrases-case-sensitive/)
-* [How to Swap Tokens With Low Liquidity](https://blockpulseinsights.com/blog/how-to-swap-low-liquidity-tokens/)
+* [is 1% slippage good](https://blockpulseinsights.com/blog/is-1-percent-slippage-good-in-crypto/)
 
 ### 🛠️ Tools & Tech Stack
 * **Networks:** Ethereum, Solana, Base, Arbitrum.
