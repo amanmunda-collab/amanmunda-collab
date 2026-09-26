@@ -6,7 +6,7 @@ I am a Web3 developer and researcher with over two years of active experience in
 
 Because these platforms operate entirely on code, understanding the underlying math matters. I bridge the gap between heavy technical execution and accessible market analysis. My goal is to give readers the exact data they need to make informed decisions.
 
-### ⚙️ What I Do
+### What I Do
 * **DeFi Analytics:** I evaluate automated market makers (AMMs), track liquidity pool depth, and calculate impermanent loss metrics.
 * **Smart Contract Mechanics:** I review token standards, bridging consensus models, and MEV front-running risks.
 * **Technical Writing:** I craft clear, accurate Web3 content focused on readability and hard facts.
