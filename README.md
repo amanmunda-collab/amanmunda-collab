@@ -11,7 +11,7 @@ Because these platforms operate entirely on code, understanding the underlying m
 * **Smart Contract Mechanics:** I review token standards, bridging consensus models, and MEV front-running risks.
 * **Technical Writing:** I craft clear, accurate Web3 content focused on readability and hard facts.
 
-### ✍️ My Latest Articles
+###  My Latest Articles
 *Read my full technical analysis on the [BlockPulse Insights Blog](https://blockpulseinsights.com/blog/).*
 * [Does meta own the metaverse](https://blockpulseinsights.com/blog/does-meta-own-the-metaverse/)
 * [Can bitcoin transactions be pending for days](https://blockpulseinsights.com/blog/can-bitcoin-transaction-be-pending-for-days/)
